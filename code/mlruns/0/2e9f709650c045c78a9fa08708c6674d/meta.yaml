@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PERSONAL-DATA/Projects/Current_Pluralsight/monitoring-ai-production/code/mlruns/0/2e9f709650c045c78a9fa08708c6674d/artifacts
+end_time: 1739706490145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e9f709650c045c78a9fa08708c6674d
+run_name: peaceful-crab-282
+run_uuid: 2e9f709650c045c78a9fa08708c6674d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739706483338
+status: 3
+tags: []
+user_id: radki

@@ -1,0 +1,2 @@
+[pytest_randomly.random_seeder]
+reseed = alibi_detect.utils._random:set_seed
